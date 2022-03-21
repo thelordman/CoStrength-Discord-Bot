@@ -14,6 +14,6 @@ async def on_message(msg):
     return
 
   if msg.content.startswith("!ass"):
-    await msg.channel.send("http://cdn.megabuttpics.com/images/biggest-ssbbw-large-bottom.jpg")
+    await msg.reply("http://cdn.megabuttpics.com/images/biggest-ssbbw-large-bottom.jpg")
 
 client.run(token)
