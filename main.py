@@ -1,4 +1,5 @@
 import discord
+import os
 
 client = discord.Client()
 token = os.environ['TOKEN']
